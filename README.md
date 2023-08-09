@@ -7,7 +7,7 @@ Bem-vindo ao meu portfolio de Desenvolvedor Web! Aqui você encontrará informa�
 
 # Especializado em criar interfaces atraentes e funcionais
 
-<a href="https://portfolio-gamma-dun-62.vercel.app/"> clique aqui para ver </a>
+<a href="https://portfolio-gamma-dun-62.vercel.app/" target="_blanck"> clique aqui para ver </a>
 
 proporcionando a melhor experiência aos usuários. Meu portfolio inclui projetos como um e-commerce com React e Redux, um blog pessoal com Node.js e um portfolio responsivo com CSS. Estou sempre aberto a oportunidades de colaboração e aprendizado. Divirta-se explorando meu portfolio de Desenvolvedor Web!
 
