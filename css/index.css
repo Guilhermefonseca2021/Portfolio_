@@ -1,0 +1,106 @@
+@media (max-width: 740px) {
+
+    body {
+        font-weight: 400;
+    }
+
+    .navItems {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .logo {
+        display: flex;
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #3d535f;
+        letter-spacing: 3px;
+        cursor: pointer;
+        text-transform: uppercase;
+    }
+
+    h1 {
+        display: block;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #3d535f;
+    }
+
+    .multiText {
+        color: #7f00ff;
+        text-transform: capitalize;
+        position: block;
+        font-size: 3rem;
+    }
+
+    .btns {
+        width: 100%;
+        position: relative;
+        left: 0px;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    .links {
+        display: none;
+    }
+
+    .imgBox {
+        display: none;
+    }
+
+    .wrapper {
+
+    }
+
+    @keyframes object2 {
+        50% {
+            left: 65%;
+            top: 9%;
+        }
+    }
+
+    .wrapper::after {
+        position: absolute;
+        content: '';
+        height: 10rem;
+        width: 10rem;
+        border-radius: 50%;
+        left: 65%;
+        top: 12%;
+        background: linear-gradient(45deg, #7f00ff, pink);
+        animation: object2 6s linear infinite;
+    }
+
+    .content .card {
+        width: 12rem;
+        border: 1.5px solid #7f00ff;
+        box-sizing: border-box;
+        background: #3d535f;
+        box-sizing: border-box;
+    }
+    
+    
+    .content .card-collection .card > img {
+        width: 100%;
+    }
+
+    .content .card-collection .card h2 {
+        text-align: center;
+        line-height: 1.6rem;
+        color: #fff;
+    }
+
+    .content .card-collection .card p {
+        font-size: .7rem;
+        width: 100%;
+        color: #fff;
+    }
+
+    .content .card-collection .card .btn-link {
+        width: 100%;
+        margin: 0;
+        box-shadow: none;
+    }
+
+}
