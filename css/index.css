@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 @media (max-width: 740px) {
 
     body {
@@ -72,35 +76,20 @@
         animation: object2 6s linear infinite;
     }
 
+    .content {
+        width: 800px;
+        display: flex;
+        justify-content: center;
+    }
+    
     .content .card {
-        width: 12rem;
-        border: 1.5px solid #7f00ff;
-        box-sizing: border-box;
-        background: #3d535f;
-        box-sizing: border-box;
+        width: 200px;
+        height: 200px;
     }
     
+    .content .card img {
+        width: 200px;
+    }
     
-    .content .card-collection .card > img {
-        width: 100%;
-    }
-
-    .content .card-collection .card h2 {
-        text-align: center;
-        line-height: 1.6rem;
-        color: #fff;
-    }
-
-    .content .card-collection .card p {
-        font-size: .7rem;
-        width: 100%;
-        color: #fff;
-    }
-
-    .content .card-collection .card .btn-link {
-        width: 100%;
-        margin: 0;
-        box-shadow: none;
-    }
 
 }

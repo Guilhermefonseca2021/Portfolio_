@@ -4,9 +4,7 @@
     padding: 0;
 }
 
-body {
-    overflow: hidden;
-}
+
 
 .container {
     width: 100%;
@@ -233,41 +231,94 @@ button:hover {
     }
 }
 
+@media (max-width: 740px) {
+
+    .links {
+        display: none;
+    }
+
+    .imgBox {
+        display: none;
+    }
+}
+
 .content .card-collection {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: .5rem;
-    margin: 2rem;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    margin: .5rem;
 }
 
 .content .card {
-    width: 16rem;
-    border: 1.5px solid #7f00ff;
-    box-sizing: border-box;
-    background: #3d535f;
-    border-radius: 5px;
+    width: 200px;
+    background-color: aliceblue;
+    border-radius: 6px;
     overflow: hidden;
+    box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.32);
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.32);
+    -moz-box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.32);
+    padding: .5rem;
 }
 
-.content .card-collection .card > img {
-    width: 100%;
+.content .card img {
+    width: 200px;
 }
 
-.content .card-collection .card h2 {
-    text-align: center;
-    line-height: 1.6rem;
-    color: #fff;
+.content .card h2 {
+    font-size: 1rem;
 }
 
-.content .card-collection .card p {
-    font-size: .7rem;
-    width: 100%;
-    color: #fff;
+.content .card p {
+    font-size: 14px;
 }
 
-.content .card-collection .card .btn-link {
-    width: 100%;
+.content .card button {
+    font-size: 1rem;
+    padding: .2rem;
     margin: 0;
     box-shadow: none;
+    background-color: slategray;
 }
+
+
+@media (max-width: 700) {
+    .container-tech .techs {
+        display: flex;
+        flex-direction: column;
+        margin: 2rem;
+    }
+    
+    .container-tech .techs a {
+        background-color: aliceblue;
+        padding: .2rem;
+        text-align: center;
+        border-radius: 6px;
+        margin: .5rem;
+    }
+}
+
+.container-tech .techs {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+
+.container-tech .techs a {
+    background-color: aliceblue;
+    padding: .5rem;
+    text-align: center;
+    border-radius: 6px;
+    margin: .5rem;
+}
+
+
+
+
+
+
