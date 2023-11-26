@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Trabalho com as tecnologias web, HTML, CSS, JavaScript, e React para criar uma experiência de usuário atraente e funcional."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lidando com o processamento de dados, a lógica de negócios e a interação com o banco de dados com NodeJS e Java. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "(User Interface) e UX (User Experience) profissonalmente apto a criar uma experiência de usuário agradável e eficiente."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "..."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "https://private-user-images.githubusercontent.com/92196697/284088523-a3558e6c-2081-46b7-b25b-2c0785fc24be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzQyODEsIm5iZiI6MTcwMTAzMzk4MSwicGF0aCI6Ii85MjE5NjY5Ny8yODQwODg1MjMtYTM1NThlNmMtMjA4MS00NmI3LWIyNWItMmMwNzg1ZmMyNGJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDIxMjYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2ZGFmYmRjYjZmNTZlYWEyZGE5Njg3YWE3YmNhMDMyMTc3NDQ3NmU5Y2I0ZGJkZjIzMTE1ZmQ0YmUyY2QzNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-Bz3tT13ERURVG8TntgemlKOTqMNAEhp_II3OjxE6ic",
+      "title": "Agendar Reserva",
+      "description": "Site de reserva em hotel que permite aos usuários pesquisar, comparar e, eventualmente, reservar acomodações em hotéis.",
+      "link": "https://github.com/Guilhermefonseca2021/Booking-Reservation"
+    },
+    {
+      "id": "2",
+      "src": "https://private-user-images.githubusercontent.com/92196697/285492368-0d886eb5-098a-4344-86c2-15fdae4ab9c2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzQzNTUsIm5iZiI6MTcwMTAzNDA1NSwicGF0aCI6Ii85MjE5NjY5Ny8yODU0OTIzNjgtMGQ4ODZlYjUtMDk4YS00MzQ0LTg2YzItMTVmZGFlNGFiOWMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDIxMjczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxMWE4ZmUwYTZhMDZlNDFiNmYwOTcyMzBiODAwZGMxZTBlMzRlZTZjMjhlY2EzN2M3NzYyZDE2OTlkZTFiMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xhh9CIGADppR9wHggZhmjClNjKvIt4XuYlak9ZU2D3E",
+      "title": "Loja e carrinho",
+      "description": "Carrinho de compras que permite ver os itens desejados durante sua navegação, escolhas antes de finalizar a compra. ",
+      "link": "https://github.com/Guilhermefonseca2021/React-Shopping"
+    },
+    {
+      "id": "3",
+      "src": "https://private-user-images.githubusercontent.com/92196697/267189850-bbf6639e-e766-49c9-b3b6-846b40a007e0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzQ0NDYsIm5iZiI6MTcwMTAzNDE0NiwicGF0aCI6Ii85MjE5NjY5Ny8yNjcxODk4NTAtYmJmNjYzOWUtZTc2Ni00OWM5LWIzYjYtODQ2YjQwYTAwN2UwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDIxMjkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyOTAyNGQxMjc2ODQxY2IyMDEyN2ZhNzUyYWU1MDQ5OWYzMDM1NWNhNzcwYzQyMjgwNWYyNTUwMDcwODRlYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JHPYeTJ5h-Zpp4DASXlJatUVsUwnY365bPxwRC_AdtI",
+      "title": "Site de oferta",
+      "description": "Um site de apresentação de ofertas é uma plataforma online que destaca promoções, descontos e ofertas especiais",
+      "link": "https://github.com/Guilhermefonseca2021/Kafene"
+    },
+    {
+      "id": "4",
+      "src": "https://private-user-images.githubusercontent.com/92196697/263562567-591a95f3-2876-46d8-9268-7f8d228432df.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzY3MDMsIm5iZiI6MTcwMTAzNjQwMywicGF0aCI6Ii85MjE5NjY5Ny8yNjM1NjI1NjctNTkxYTk1ZjMtMjg3Ni00NmQ4LTkyNjgtN2Y4ZDIyODQzMmRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDIyMDY0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1Nzk1MzBhNDQ5YjA4ZmZjNDdlODhhMzhiNTFkYTYyMThlN2I1ZDQxMWU2ZDdlYWUzNjkzNjQ3MjQ3ZjI2MDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DHcXaZ6VCDs4-m4r_BD2oGgmNM1ZnSSE1NgilVl-nLc",
+      "title": "Dashboard de financas",
+      "description": "Compreensão clara da saúde financeira, exibe dados essenciais, gráficos e métricas relacionadas às finanças",
+      "link": "https://github.com/Guilhermefonseca2021/money-dt-withAPI"
+    },
+    {
+      "id": "5",
+      "src": "https://private-user-images.githubusercontent.com/92196697/278774127-942c95ba-0da1-4094-88d2-4a909dc291de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwMzczOTQsIm5iZiI6MTcwMTAzNzA5NCwicGF0aCI6Ii85MjE5NjY5Ny8yNzg3NzQxMjctOTQyYzk1YmEtMGRhMS00MDk0LTg4ZDItNGE5MDlkYzI5MWRlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDIyMTgxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5YmE1NzdlNjdkNzAzMGU1ZGNhYjVhZGM2YTY2MjY5NWViZDExNjVjZTFjMWVkZWViMTdiMzc2YzQwZTkwMGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hy003__hTdX2HSTOTOq7-gUXRrjczIJXHIsbCtyPjCA",
+      "title": "Comments sessions",
+      "description": "Compreensão clara da saúde financeira, exibe dados essenciais, gráficos e métricas relacionadas às finanças",
+      "link": "https://github.com/Guilhermefonseca2021/Desafio-Front-end"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?q=80&w=80&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Espaco reservado para avaliacoes",
+      "author_name": "Annon",
+      "author_designation": "Developer"
+    }
+  ]
+}
